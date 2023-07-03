@@ -35,7 +35,7 @@
 
 # 📖 [Math-magicians] <a name="about-project"></a>
 
-**single Page Calculator application developed using React. Calculator does simple arithmetic operations involving Addition, Subtraction, Division and Multiplication **
+**Math-magicians setup for a single Page Calculator application developed using React. Calculator does simple arithmetic operations involving Addition, Subtraction, Division and Multiplication **
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -100,7 +100,6 @@ Clone this repository to your desired folder:
 run npm start in VS Code terminal, to run via live server extension and see how the code works. You can also visit the Live Demo Link to see how the Project works online.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Use index.html file.
 
 <!-- AUTHORS -->
 

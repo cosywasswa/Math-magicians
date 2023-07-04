@@ -35,7 +35,7 @@
 
 # 📖 [Math-magicians] <a name="about-project"></a>
 
-**Math-magicians is a single Page Calculator application developed using React. Calculator does simple arithmetic operations involving Addition, Subtraction, Division and Multiplication . The APP also fetched data from the external API**
+**Math-magicians is a single Page Calculator application developed using React. Calculator does simple arithmetic operations involving Addition, Subtraction, Division and Multiplication . The APP also fetches data from the external API and displays quotes on the page**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,6 +70,8 @@
 
 - **[Project setup]**
 - **[Calculator components]**
+- **[Calculator logic functionality]**
+- **[Fetching API and displaying on page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +119,7 @@ run npm start in VS Code terminal, to run via live server extension and see how 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Fetch API data]**
+- [ ] **[More styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

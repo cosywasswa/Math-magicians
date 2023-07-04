@@ -117,7 +117,6 @@ run npm start in VS Code terminal, to run via live server extension and see how 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Calculator logic events]**
 - [ ] **[Fetch API data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

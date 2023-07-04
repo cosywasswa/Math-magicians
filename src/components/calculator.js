@@ -1,8 +1,6 @@
 import React from 'react';
+import Display from './display';
 
-function Display() {
-  return <input type="text" className="result" placeholder="0" />;
-}
 function Calculator() {
   return (
     <div className="main-container">

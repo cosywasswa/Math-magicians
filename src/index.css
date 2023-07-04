@@ -5,15 +5,8 @@ html {
   padding: 0;
 }
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 90vh;
-}
-
 .main-container {
-  margin: 0;
+  margin-top: 2rem;
 }
 
 #table-body {
@@ -57,4 +50,27 @@ td > button {
 
 .operators {
   background: rgb(255, 136, 1);
+}
+
+.quoteDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  width: 30%;
+  font-size: 17px;
+}
+
+.all-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.loadingP {
+  font-style: italic;
+  color: rgb(100, 90, 185);
 }

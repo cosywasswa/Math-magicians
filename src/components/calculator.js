@@ -57,8 +57,6 @@ function Calculator() {
         </tbody>
       </table>
     </div>
-
   );
 }
-
 export default Calculator;

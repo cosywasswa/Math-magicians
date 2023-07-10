@@ -5,6 +5,21 @@ html {
   padding: 0;
 }
 
+body {
+  background-color: rgb(253, 249, 249);
+}
+
+.all {
+  display: flex;
+  margin: 0 1rem;
+  justify-content: space-between;
+}
+
+.calc-text h3 {
+  padding-left: 10px;
+  font-size: 25px;
+}
+
 .main-container {
   margin-top: 2rem;
 }
@@ -58,19 +73,14 @@ td > button {
   justify-content: center;
   align-items: center;
   padding-top: 20px;
-  width: 30%;
-  font-size: 17px;
-}
-
-.all-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   width: 100%;
+  font-size: 17px;
 }
 
 .loadingP {
   font-style: italic;
-  color: rgb(100, 90, 185);
+  color: rgb(62, 58, 99);
+  text-align: center;
+  padding: 5rem 5rem;
+  font-size: 20px;
 }

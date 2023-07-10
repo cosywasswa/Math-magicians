@@ -20,9 +20,14 @@ function Display(props) {
 }
 
 Display.propTypes = {
-  total: PropTypes.string.isRequired,
-  operation: PropTypes.string.isRequired,
-  next: PropTypes.string.isRequired,
+  total: PropTypes.number.isRequired,
+  operation: PropTypes.string,
+  next: PropTypes.string,
+};
+
+Display.defaultProps = {
+  operation: '',
+  next: '',
 };
 
 export default Display;

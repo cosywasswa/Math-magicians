@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from 'react';
 
 function Quotes() {
   const [quotes, setQuotes] = useState(null);
@@ -8,15 +8,14 @@ function Quotes() {
   useEffect(() => {
     const getQuote = async () => {
       try {
-        const url =
-          "https://api.api-ninjas.com/v1/quotes?category=intelligence";
+        const url = 'https://api.api-ninjas.com/v1/quotes?category=intelligence';
         const response = await fetch(url, {
           headers: {
-            "X-Api-Key": "26cTkE83PIO43lDAytQOnA==cF1QVP0FKktXURwi",
+            'X-Api-Key': '26cTkE83PIO43lDAytQOnA==cF1QVP0FKktXURwi',
           },
         });
         if (!response) {
-          throw new Error("Quote failed");
+          throw new Error('Quote failed');
         }
         const quoteData = await response.json();
         const newQuote = quoteData[0].quote;

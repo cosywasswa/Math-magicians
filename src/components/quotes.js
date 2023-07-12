@@ -31,7 +31,7 @@ function Quotes() {
 
   if (loading) {
     return (
-      <div className="quoteDiv">
+      <div className="quoteDiv" data-testid="quoteStatus">
         <div className="">Loading...</div>
       </div>
     );
@@ -39,15 +39,17 @@ function Quotes() {
 
   if (error) {
     return (
-      <div className="quoteDiv">
+      <div className="quoteDiv" data-testid="quoteStatus">
         <div className="loadingP">Error</div>
       </div>
     );
   }
 
   return (
-    <div className="quoteDiv">
-      <div className="loadingP"><code>{quotes}</code></div>
+    <div className="quoteDiv" data-testid="quoteStatus">
+      <div className="loadingP">
+        <code>{quotes}</code>
+      </div>
     </div>
   );
 }

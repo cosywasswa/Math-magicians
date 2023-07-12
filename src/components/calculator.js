@@ -22,7 +22,7 @@ function Calculator() {
         <div className="calc-text">
           <h3>Let&apos;s do some Math!</h3>
         </div>
-        <div className="main-container">
+        <div className="main-container" data-testid="calcDiv">
           <table id="calc-table">
             <tbody id="table-body" className="table-body">
               <tr className="tr1">
@@ -54,7 +54,7 @@ function Calculator() {
                 <td><button type="button" className="others" onClick={handlePress}>3</button></td>
                 <td><button type="button" className="operators" onClick={handlePress}>+</button></td>
               </tr>
-              <tr>
+              <tr data-testid="row">
                 <td colSpan="2"><button type="button" className="others" onClick={handlePress}>0</button></td>
                 <td><button type="button" className="others" onClick={handlePress}>.</button></td>
                 <td><button type="button" className="operators" onClick={handlePress}>=</button></td>

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator component should render correctly 1`] = `[Function]`;
+
+exports[`Calculator component should render next prop elements as null 1`] = `[Function]`;

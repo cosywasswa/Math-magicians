@@ -106,6 +106,12 @@ run npm start in VS Code terminal, to run via live server extension and see how 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### To test the project
+
+run npm run start in VS Code terminal, to test code using Jest library and see how the code works.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -114,6 +120,13 @@ run npm start in VS Code terminal, to run via live server extension and see how 
 
 - GitHub: [@githubhandle](https://github.com/cosywasswa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/cosmas-wasswa-931a2761/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+👤 **Munish halai**
+
+- GitHub: [@githubhandle](https://github.com/hmunish)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/munish-halai/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -108,7 +108,7 @@ run npm start in VS Code terminal, to run via live server extension and see how 
 
 ### To test the project
 
-run npm run start in VS Code terminal, to test code using Jest library and see how the code works.
+run npm run test in VS Code terminal, to test code using Jest library and see how the code works.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

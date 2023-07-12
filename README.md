@@ -17,6 +17,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
 - [Setup](#setup)
 - [Prerequisites](#prerequisites)
@@ -74,6 +75,15 @@
 - **[Fetching API and displaying on page]**
   **[Navigation bar]**
   **[Full website with home,calculator and quotes pages]**
+    **[Component testing]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- This is 'Math-magician' application <a href="https://math-magician-react-tvvm.onrender.com/">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +144,7 @@ run npm run test in VS Code terminal, to test code using Jest library and see ho
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Components testing]**
+- [ ] **[Custome styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

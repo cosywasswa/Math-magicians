@@ -11,10 +11,10 @@ function Navbar() {
 
   };
   return (
-    <nav className="nav" style={navStyle}>
+    <nav className="nav" style={navStyle} data-testid="navi">
       <Link to="/"><h1>Math Magicians</h1></Link>
 
-      <ul>
+      <ul data-testid="border">
         <CustomLink className="border" to="/">Home</CustomLink>
         <CustomLink className="border" to="/Calculator">Calculator</CustomLink>
         <CustomLink className="lastLink" to="/Quotes">Quotes</CustomLink>

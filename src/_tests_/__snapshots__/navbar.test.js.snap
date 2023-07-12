@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav bar component should display correct snapshot 1`] = `
+<nav
+  className="nav"
+  data-testid="navi"
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "justifyContent": "space-between",
+      "margin": "0 1.5rem",
+    }
+  }
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1>
+      Math Magicians
+    </h1>
+  </a>
+  <ul
+    data-testid="border"
+  >
+    <li
+      className="active border"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        Home
+      </a>
+    </li>
+    <li
+      className=" border"
+    >
+      <a
+        href="/Calculator"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+          }
+        }
+      >
+        Calculator
+      </a>
+    </li>
+    <li
+      className=" lastLink"
+    >
+      <a
+        href="/Quotes"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+          }
+        }
+      >
+        Quotes
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Nav bar component should render correct snapshot 1`] = `
+<nav
+  className="nav"
+  data-testid="navi"
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "justifyContent": "space-between",
+      "margin": "0 1.5rem",
+    }
+  }
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1>
+      Math Magicians
+    </h1>
+  </a>
+  <ul
+    data-testid="border"
+  >
+    <li
+      className="active border"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        Home
+      </a>
+    </li>
+    <li
+      className=" border"
+    >
+      <a
+        href="/Calculator"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+          }
+        }
+      >
+        Calculator
+      </a>
+    </li>
+    <li
+      className=" lastLink"
+    >
+      <a
+        href="/Quotes"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+          }
+        }
+      >
+        Quotes
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Nav bar component should render correctly 1`] = `
+<nav
+  className="nav"
+  data-testid="navi"
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "justifyContent": "space-between",
+      "margin": "0 1.5rem",
+    }
+  }
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1>
+      Math Magicians
+    </h1>
+  </a>
+  <ul
+    data-testid="border"
+  >
+    <li
+      className="active border"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        Home
+      </a>
+    </li>
+    <li
+      className=" border"
+    >
+      <a
+        href="/Calculator"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+          }
+        }
+      >
+        Calculator
+      </a>
+    </li>
+    <li
+      className=" lastLink"
+    >
+      <a
+        href="/Quotes"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+          }
+        }
+      >
+        Quotes
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
